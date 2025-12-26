@@ -1,2 +1,2 @@
 # solitaire
-Solitaire implemenation
+Solitaire implementation
